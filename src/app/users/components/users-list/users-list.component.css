@@ -1,0 +1,12 @@
+.col {
+  margin-bottom: 15px;
+}
+.page-link {
+  cursor: pointer;
+}
+.card {
+  width: 18rem;
+}
+.card-img-top {
+  height: 45vh;
+}

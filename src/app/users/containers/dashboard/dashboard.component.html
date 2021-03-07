@@ -1,0 +1,7 @@
+<app-users-list
+  [users]="users"
+  [pages]="pages"
+  [page]="page"
+  (loadPage)="getUsers($event)"
+  (deleteUser)="deleteUser($event)"
+></app-users-list>
